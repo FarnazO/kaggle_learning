@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kaggle_learning"
+  site-url: "https://FarnazO.github.io/kaggle_learning"
+  description: "This repo is for my kaggle learnings and processes."
+  repo-branch: main
+  repo-url: "https://github.com/FarnazO/kaggle_learning"
