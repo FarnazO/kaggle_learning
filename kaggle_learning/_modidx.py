@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://FarnazO.github.io',
                 'git_url': 'https://github.com/FarnazO/kaggle_learning',
                 'lib_path': 'kaggle_learning'},
-  'syms': {'kaggle_learning.core': {'kaggle_learning.core.foo': ('core.html#foo', 'kaggle_learning/core.py')}}}
+  'syms': { 'kaggle_learning.core_farnaz': { 'kaggle_learning.core_farnaz.say_hello': ( 'core_farnaz.html#say_hello',
+                                                                                        'kaggle_learning/core_farnaz.py')}}}
