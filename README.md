@@ -61,7 +61,8 @@ can find package manager specific guidelines on
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+from kaggle_learning.core_farnaz import say_hello
+say_hello("John")
 ```
 
-    2
+    'Hello John!'
